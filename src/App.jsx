@@ -1,17 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { 
-  Home,
-  Calendar as CalendarIcon, 
-  ChevronLeft, 
-  ChevronRight, 
   Plus, 
-  AlertCircle, 
-  CheckCircle2, 
-  Settings, 
-  Bell, 
-  Search, 
   ArrowLeft, 
-  Clock, 
   TrendingUp, 
   Brain, 
   Send, 
@@ -23,8 +13,6 @@ import {
   Filter,
   Trophy,
   X,
-  Info,
-  MessageSquare,
   ShieldAlert,
   GraduationCap
 } from "lucide-react";
